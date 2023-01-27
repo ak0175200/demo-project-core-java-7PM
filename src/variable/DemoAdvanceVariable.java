@@ -1,5 +1,7 @@
 package variable;
 
+import java.sql.SQLOutput;
+
 public class DemoAdvanceVariable {
 
     public static void main(String[] args) {
@@ -46,6 +48,11 @@ public class DemoAdvanceVariable {
        int num=5;
        int result=num*num;
         System.out.println("square root of 5 is :"+result);
+
+
+        int arman=10;
+        int khan=arman*arman;
+        System.out.println("square root of arman is:"+khan);
 
     }
 }

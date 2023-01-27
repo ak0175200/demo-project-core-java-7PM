@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="variable class">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="d1ba45c7-4c1a-4e70-8e85-28084e08877f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/variable/DemoAdvanceVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/demo-project-core-java-7PM/variable/DemoAdvanceVariable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/variable/DemoAdvanceVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/DemoAdvanceVariable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674702135562</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test square class">
+      <created>1674780015161</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674780015161</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -305,7 +312,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new changes" />
     <MESSAGE value="variable class" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable class" />
+    <MESSAGE value="test square class" />
+    <option name="LAST_COMMIT_MESSAGE" value="test square class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-project-core-java-7PM.iml">
