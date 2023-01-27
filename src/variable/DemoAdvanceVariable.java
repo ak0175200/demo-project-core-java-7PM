@@ -42,5 +42,10 @@ public class DemoAdvanceVariable {
 
        System.out.println("Decrement of j is : "+j);
 
+
+       int num=5;
+       int result=num*num;
+        System.out.println("square root of 5 is :"+result);
+
     }
 }
